@@ -14,6 +14,6 @@ Projeto/utilitário simples que utiliza as APIs do trello para criar cards de fo
 <b>Montando o ambiente</b>
   <ul>
     <li>Realizar o clone do projeto</li>
-    <li>Subistituindo a chave e o token para sia conta no Trello</li>
+    <li>Substituindo a chave e o token para sia conta no Trello</li>
   </ul>
 
