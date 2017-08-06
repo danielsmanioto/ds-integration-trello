@@ -1,4 +1,4 @@
-const token = "83797a3b565950857ac034cbc5f3932681f1ddb26b34c569dd2cce816358552f";
+const token = "8d4eda0550b6faa78eae88d8af6766940303faa55c2f2819fe208d3634b70ded";//"83797a3b565950857ac034cbc5f3932681f1ddb26b34c569dd2cce816358552f";
 const key = "8345d6cab257ea036e0c13f8442e96f0";
 
 /**
@@ -31,7 +31,7 @@ $(function(){
 	*/
 	Trello.authorize({
 	  type: 'popup',
-	  name: 'Vida de casal',
+	  name: 'Trello Integrationl',
 	  scope: {
 	    read: 'true',
 	    write: 'true' },
