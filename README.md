@@ -3,7 +3,8 @@ Projeto/utilitário simples que utiliza as APIs do trello para criar cards de fo
 
 <b>Exemplo do projeto em uso</b>
   <ul>
-    <li>https://s3.amazonaws.com/ds-integration-trello/index.html</li>
+    <li>https://ds-integration-trello.netlify.app/<b>Production</b></li>
+    <li>https://s3.amazonaws.com/ds-integration-trello/index.html<b>Old</b></li>
   </ul>
 
 <b>Requisitos minimos:</b>
